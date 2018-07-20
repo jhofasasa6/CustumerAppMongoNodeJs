@@ -1,0 +1,14 @@
+{
+  "name": "custumerappmongonodejs",
+  "version": "1.0.0",
+  "description": "example of app with mongo and nodejs express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jhod@vzu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
